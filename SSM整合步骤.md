@@ -272,10 +272,10 @@ jdbc.password=123456
 <configuration>
    
    <typeAliases>
-       <package name="com.kuang.pojo"/>
+       <package name="com.chao.pojo"/>
    </typeAliases>
    <mappers>
-       <mapper resource="com/kuang/dao/BookMapper.xml"/>
+       <mapper resource="com/chao/dao/BookMapper.xml"/>
    </mappers>
 
 </configuration>
@@ -471,7 +471,7 @@ public class BookServiceImpl implements BookService {
 </beans>
 ~~~
 
- (4)整合Wed层
+ (4)整合controller层
 
 ~~~xml
 <?xml version="1.0" encoding="UTF-8"?>
