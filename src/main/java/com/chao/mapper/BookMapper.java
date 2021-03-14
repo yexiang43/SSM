@@ -4,7 +4,6 @@ import com.chao.pojo.Books;
 
 import java.util.List;
 
-
 public interface BookMapper {
 
     //增加一本书

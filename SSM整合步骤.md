@@ -38,7 +38,7 @@ CREATE TABLE `books` (
 
 ### 1.打开IDEA创建普通Maven项目并添加wed支持
 
-![image-20210125132155236](https://github.com/yexiang43/SSM.git/master/images/web.png)
+![image-20210125132155236](https://github.com/yexiang43/ssm/raw/master/images/web.png)
 
 ### 2.添加相关依赖
 
@@ -139,7 +139,7 @@ CREATE TABLE `books` (
 
 ### 3.创建基本结构
 
-![image-20210125132155236](https://github.com/yexiang43/SSM.git/master/images/jiben.png)
+![image-20210125132155236](https://github.com/yexiang43/ssm/raw/master/images/jiben.png)
 
  mybatis-config.xml
 
@@ -540,6 +540,6 @@ public class BookServiceImpl implements BookService {
 
 ## 3.整合结束
 
-![image-20210125132155236](https://github.com/yexiang43/SSM.git/master/images/ok.png)
+![image-20210125132155236](https://github.com/yexiang43/ssm/raw/master/images/ok.png)
 
 **下面可以进行视图层的编写！！！**
